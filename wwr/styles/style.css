@@ -1,0 +1,94 @@
+
+:root {
+    /* change the values below to your colors from your palette */
+    --primary-color: #fdf8e1   ;
+    --secondary-color: #263940 ;
+    --accent1-color: #e09f3e;
+    --accent2-color: #BF372A;
+  
+    --heading-font: "Open Sans";
+    --paragraph-font: Open Sans, Helvetica, sans-serif;
+  
+    --headline-color-on-white: #263940;  /* headlines on a white background */ 
+    --headline-color-on-color: #fdf8e1; /* headlines on a colored background */ 
+    --paragraph-color-on-white: #263940; /* paragraph text on a white background */ 
+    --paragraph-color-on-color: #fdf8e1; /* paragraph text on a colored background */ 
+    --paragraph-background-color: #263940  ;
+    --nav-link-color: #263940;
+    --nav-background-color: #e09f3e;
+    --nav-hover-link-color: #fdf8e1;
+    --nav-hover-background-color: #263940;
+  }
+
+#content {
+    max-width: 1600px;
+    margin-top: 0 auto;
+    margin-bottom: 0 auto;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    text-align: center;
+}
+
+nav a
+#hero-msg h1, #hero-msg h4
+.button-box
+main section {
+    margin-top: 0 auto;
+    margin-bottom: 0 auto;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+}
+
+header, footer {
+    background-color: #263940;
+    color: #fff;
+}
+
+nav a:hover {
+    background-color:  #263940;
+    color: #fff;
+}
+
+.book, .join
+.book:hover, .join:hover {
+    background-color: #fdf8e1;
+    color: #000;
+}
+
+#background
+.msg {
+    background-color: var(--nav-background-color);
+}
+
+.icon {
+    width: 80px;
+}
+
+#hero-img {
+    width: 100%;
+}
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}  
+
+footer p {
+    font-size: 1.2em;
+}    
+
+footer p a:hover {
+    text-decoration: underline;
+} 
+
+.logo {
+    width: 10rem;
+}
+
+
