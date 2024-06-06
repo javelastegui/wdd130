@@ -162,8 +162,7 @@
   /* This is the parent of the activity 6 boxes. */
   display: grid;
   grid-template-columns: repeat(6, 100px);
-  grid-template-rows: repeat(6, 100px);
-  gap: 0;
+  grid-template-rows: repeat(6, 100px); 
 }
 .red6 {
   background-color: red;
